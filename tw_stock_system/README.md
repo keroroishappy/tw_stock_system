@@ -1,5 +1,5 @@
 # tw_stock_system
-＃# Execute: python3 main.py
+## Execute: python3 main.py
 ### Function : "a" create a stock group and add your stock in it
 ### Function : "u" update the stock from yahoo finance api default:(180 days)
 ### Function : "s" create your own python strategy
